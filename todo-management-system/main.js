@@ -223,7 +223,7 @@ var GlobalConfig = /** @class */ (function () {
     function GlobalConfig() {
     }
     GlobalConfig.serverUrl = "http://api.testtodos.in";
-    GlobalConfig.clientUrl = "http://localhost:4200";
+    GlobalConfig.clientUrl = "http://testtodos.in";
     GlobalConfig.apiVersion = "api/v1";
     return GlobalConfig;
 }());
